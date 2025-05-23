@@ -51,6 +51,7 @@ Toggles:
     Destruir-Bloques: true
     Fuego: false
     Explosion-Power: 200
+  OP-Ban: true
 Server-Messages:
   coords-msg-enable: true
   DefaultDeathMessage: '&7%player% ha muerto y ahora descanza en paz.'
